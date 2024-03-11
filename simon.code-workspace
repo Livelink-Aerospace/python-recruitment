@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+    "reccomendations": [
+        "aaron-bond.better-comments",
+        "alefragnani.Bookmarks",
+        "charliermarsh.ruff",
+        "davidanson.vscode-markdownlint",
+        "donjayamanne.python-environment-manager",
+        "github.vscode-github-actions",
+        "gruntfuggly.todo-tree",
+        "ms-azuretools.vscode-docker",
+        "ms-python.debugpy",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "shardulm94.trailing-spaces",
+        "tamasfe.even-better-toml",
+    ]
+}
