@@ -18,7 +18,7 @@ class Config:
 
     @staticmethod
     def load_toml_file(fn) -> Dict[str, Any]:
-        with open(fn, "r") as f:
+        with open(fn, "w") as f:
             return toml.load(f)
         return None
 
